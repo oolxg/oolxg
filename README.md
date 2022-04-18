@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1> Hey hey :vulcan_salute: </h1>
 
-<!--
-**OOLXG/oolxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> A little about me </h3>
 
-Here are some ideas to get you started:
+<ul>
+  <li> 21 y.o. student in Berlin, Germany </li>
+  <li> Love Apple  ecosytem, doing things in Swift </li>
+  <li> If you want to know more about me, I'm always happy to chat 😏  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Also like playing video games, watching anime and travel.  
+</p>
+
+<h3> Contact me </h3>
+<p> 
+  <a href="https://t.me/oolxg" target="_blank">
+   <img src="https://img.shields.io/badge/telegram-000000?logo=telegram&style=for-the-badge" alt="Telegram Logo">
+  </a> 
+
+  <a href="https://www.linkedin.com/in/oolxg/" target="_blank">
+   <img src="https://img.shields.io/badge/linkedin-000000?logo=linkedin&style=for-the-badge" alt="Linkedin Logo">
+  </a> 
+</p>
+
+<!-- Ohh, you found me :] -->
