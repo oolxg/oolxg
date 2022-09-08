@@ -4,7 +4,7 @@
 
 <ul>
   <li> 21 y.o. student at Technische Universität Berlin, Germany </li>
-  <li> Love Apple  ecosytem, doing things in Swift </li>
+  <li> Love Apple  ecosystem, doing things in Swift </li>
   <li> If you want to know more about me, I'm always happy to chat 😏  </li>
 </ul>
 
