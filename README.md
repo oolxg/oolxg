@@ -5,11 +5,13 @@
 <ul>
   <li> 21 y.o. student at Technische Universität Berlin, Germany </li>
   <li> Love Apple  ecosystem, doing things in Swift </li>
-  <li> If you want to know more about me, I'm always happy to chat 😏  </li>
 </ul>
 
 <p>
 Also like playing video games, watching anime and travel.  
+</p>
+<p>
+Currently doing some 🌸manga-related project for iOS/iPadOS.
 </p>
 
 <h3> Contact me </h3>
