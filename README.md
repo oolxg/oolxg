@@ -11,7 +11,7 @@
 Also like playing video games, watching anime and travel.  
 </p>
 <p>
-Currently doing some 🌸manga-related project for iOS/iPadOS.
+Currently doing some beeps and boops in Swift.
 </p>
 
 <h3> Contact me </h3>
@@ -21,7 +21,7 @@ Currently doing some 🌸manga-related project for iOS/iPadOS.
   </a> 
 
   <a href="https://www.linkedin.com/in/oolxg/" target="_blank">
-   <img src="https://img.shields.io/badge/linkedin-000000?logo=linkedin&style=for-the-badge" alt="Linkedin Logo">
+   <img src="https://img.shields.io/badge/linkedin-000000?logo=linkedin&style=for-the-badge" alt="LinkedIn Logo">
   </a> 
 </p>
 
