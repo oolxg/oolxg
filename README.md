@@ -3,7 +3,7 @@
 <h3> A little about me </h3>
 
 <ul>
-  <li> 21 y.o. student at Technische Universität Berlin, Germany </li>
+  <li> 22 y.o. student at Technische Universität Berlin, Germany </li>
   <li> Love Apple  ecosystem, doing things in Swift </li>
 </ul>
 
