@@ -19,10 +19,6 @@ Currently doing some beeps and boops in Swift.
   <a href="https://s.mkpwnz.moe/tg-gh" target="_blank">
    <img src="https://img.shields.io/badge/telegram-000000?logo=telegram&style=for-the-badge" alt="Telegram Logo">
   </a> 
-
-  <a href="https://s.mkpwnz.moe/li-gh" target="_blank">
-   <img src="https://img.shields.io/badge/linkedin-000000?logo=linkedin&style=for-the-badge" alt="LinkedIn Logo">
-  </a> 
 </p>
 
 <!-- Ohh, you found me :] -->
