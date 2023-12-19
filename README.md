@@ -10,9 +10,6 @@
 <p>
 Also like playing video games, watching anime and travel.  
 </p>
-<p>
-Currently doing some beeps and boops in Swift.
-</p>
 
 <h3> Contact me </h3>
 <p> 
