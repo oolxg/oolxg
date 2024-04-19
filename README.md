@@ -3,9 +3,8 @@
 <h3> A little about me </h3>
 
 <ul>
-  <li> Ex. Spotify Mobile Engineer </li>
-  <li> 23 y.o. student at Technische Universität Berlin, Germany </li>
-  <li> Love Apple  ecosystem, doing things in Swift </li>
+  <li> Student at TU Berlin </li>
+  <li> Love Apple  ecosystem </li>
 </ul>
 
 <p>
