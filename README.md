@@ -3,15 +3,12 @@
 <h3> A little about me </h3>
 
 <ul>
-  <li> Student at TU Berlin </li>
-  <li> Love Apple  ecosystem </li>
+  <li> Creating some handy stuff for myself (mostly for  ecosystem) </li>
+  <li> Love travel and anime</li>
+  <li> Currently doing some backend stuff in anti fraud team in payment processing company </li>
 </ul>
 
-<p>
-Also like playing video games, watching anime and travel.  
-</p>
-
-<h3> Contact me </h3>
+<h3> Drop me a line </h3>
 <p> 
   <a href="https://s.mkpwnz.moe/tg-gh" target="_blank">
    <img src="https://img.shields.io/badge/telegram-000000?logo=telegram&style=for-the-badge" alt="Telegram Logo">
